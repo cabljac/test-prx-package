@@ -1,9 +1,10 @@
 {
   "name": "test",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "test",
   "author": "jacob",
   "supported_tools": ["claude-code"],
-  "repository": "https://github.com/cabljac/prx-registry/tree/main/packages/test",
-  "license": "MIT"
+  "repository": "https://github.com/cabljac/prx-registry",
+  "license": "MIT",
+  "subdirectory": "packages/test"
 }
