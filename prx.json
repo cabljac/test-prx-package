@@ -4,7 +4,6 @@
   "description": "test",
   "author": "jacob",
   "supported_tools": ["claude-code"],
-  "repository": "https://github.com/cabljac/prx-registry",
-  "license": "MIT",
-  "subdirectory": "packages/test"
+  "repository": "https://github.com/cabljac/test-prx-package",
+  "license": "MIT"
 }
