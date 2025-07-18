@@ -1,0 +1,1 @@
+Just print "Hello Claude Code" back to the user
